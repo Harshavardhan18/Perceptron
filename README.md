@@ -25,7 +25,7 @@
               
            
  Activation Function:
-  Various activatiom function that can be used are:
+  Various activation functions that can be used are:
   1. Unit step.
   2. Linear.
   3. Sigmoid or Logistic.
