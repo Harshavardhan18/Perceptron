@@ -32,5 +32,5 @@
   4. Hyperbolic tangent.
   
   For more information:
-   https://nptel.ac.in/courses/106105078/pdf/Lesson%2038.pdf
-   https://www.youtube.com/watch?v=5g0TPrxKK6o
+   * https://nptel.ac.in/courses/106105078/pdf/Lesson%2038.pdf
+   * https://www.youtube.com/watch?v=5g0TPrxKK6o
