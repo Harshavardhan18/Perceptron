@@ -23,5 +23,14 @@
               y(t) = actual output
               O = class output
               
-              
-              https://i.stack.imgur.com/Waz75.png
+           
+ Activation Function:
+  Various activatiom function that can be used are:
+  1. Unit step.
+  2. Linear.
+  3. Sigmoid or Logistic.
+  4. Hyperbolic tangent.
+  
+  For more information:
+   https://nptel.ac.in/courses/106105078/pdf/Lesson%2038.pdf
+   https://www.youtube.com/watch?v=5g0TPrxKK6o
